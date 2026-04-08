@@ -1,0 +1,6 @@
+name: my_env_v4
+description: Customer support environment
+tasks:
+  - easy
+  - medium
+  - hard
